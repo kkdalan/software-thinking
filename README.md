@@ -1,1 +1,2 @@
-# software-thinking
+# 軟體思維系列
+
